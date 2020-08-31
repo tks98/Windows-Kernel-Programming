@@ -1,0 +1,4 @@
+﻿  Building 'Windows-Kernel-Development' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  Stamping Debug\Windows-Kernel-Development.inf
+  Stamping [Version] section with DriverVer=08/30/2020,20.42.31.524
+C:\Users\Travis\source\repos\Windows-Kernel-Development\Windows-Kernel-Development\Windows-Kernel-Development.inf : error 1297: Device driver does not install on any devices, use primitive driver if this is intended.
