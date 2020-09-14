@@ -1,5 +1,8 @@
-c:\users\travis\source\repos\windows-kernel-development\chapter2\x64\debug\chapter2.inf
-c:\users\travis\source\repos\windows-kernel-development\x64\debug\chapter2.inf
-c:\users\travis\source\repos\windows-kernel-development\chapter2\x64\debug\chapter2.tlog\stampinf.command.1.tlog
-c:\users\travis\source\repos\windows-kernel-development\chapter2\x64\debug\chapter2.tlog\stampinf.read.1.tlog
-c:\users\travis\source\repos\windows-kernel-development\chapter2\x64\debug\chapter2.tlog\stampinf.write.1.tlog
+c:\users\travis\source\repos\windows-kernel-programming\chapter2\x64\debug\vc142.pdb
+c:\users\travis\source\repos\windows-kernel-programming\chapter2\x64\debug\chapter2.obj
+c:\users\travis\source\repos\windows-kernel-programming\x64\debug\chapter2.sys
+c:\users\travis\source\repos\windows-kernel-programming\chapter2\x64\debug\chapter2.tlog\cl.command.1.tlog
+c:\users\travis\source\repos\windows-kernel-programming\chapter2\x64\debug\chapter2.tlog\cl.read.1.tlog
+c:\users\travis\source\repos\windows-kernel-programming\chapter2\x64\debug\chapter2.tlog\cl.write.1.tlog
+c:\users\travis\source\repos\windows-kernel-programming\chapter2\x64\debug\chapter2.tlog\link.command.1.tlog
+c:\users\travis\source\repos\windows-kernel-programming\chapter2\x64\debug\chapter2.tlog\link.read.1.tlog
